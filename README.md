@@ -1,2 +1,3 @@
-# XJTU-automation-E-book
-我是西安交通大学自动化专业23级学生，这是本人第一次在github上创建项目，目的为向大家分享西交自动化专业所需的一些电子书（学校新书卖的太贵了），由于电子书是我自己上课所用，可能不全或版本有变，敬请谅解。
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeecd7f39756c0c32144cca6eeeef45fe5a8e65330589bb7b3ee25e4cfd9776c
+size 321
